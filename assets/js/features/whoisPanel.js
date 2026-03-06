@@ -1,4 +1,4 @@
-const WHOIS_ENDPOINT = 'https://whois-api.projectidx.space/';
+const WHOIS_ENDPOINT = 'https://whois-api.idxcluster.com/';
 
 export function initWhoisPanel() {
     const whoisToggle = document.getElementById('whois-toggle');
